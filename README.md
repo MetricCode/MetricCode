@@ -1,16 +1,12 @@
 -H3ll0 !
--👋 Hi, @MetricCode here... 
+-👋 Hi, @M3tr1c_r00t here... 
 
--Age -- 19. 
+- wh0am1; 19 CyberSec Enthusiast! | CTF pLaYeR | Forensics SpeCiAlIsT ;) 
+- #ctfplayer 
+- Chm0d +x HaCk Y0uR WaY ThR0uGh http://1T.sh
 
--🌱 Experienced python programmer.
-
--👀 MY aim? -- Get good at Cyber Security.
-
--📫 Hit me up on my socials for any information in need. :)
-
-- Instagram -- @hackermghacked
+- Instagram -- @m3tr1c_r00t
 - 
-- Twitter -- @MartinN95210182
+- Twitter -- @M3tr1c_root
 - 
 - Email -- thegamemartinez34@gmail.com
