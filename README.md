@@ -1,6 +1,5 @@
-# @Contributor : M3tr1c_r00t
-## H3xcl4n 
-### Forensics Specialist ;)
+# @Author : M3tr1c_r00t
+## Forensics Specialist ;)
 
 <div align="center">
           
