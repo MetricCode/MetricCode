@@ -33,6 +33,6 @@ Let this wonderful and engaging Journey begin! :)
 <a href="https://github.com/MetricCode">My Github Repo </a>
  #### You can also visit the other repos while you're at it! 
 ## My socials:
-<br>@ twitter: https://twitter.com/M3tr1c_root
+<br>@ twitter: https://twitter.com/M3tr1c_r00t
 <br>@ instagram: https://instagram.com/m3tr1c_r00t/
    
